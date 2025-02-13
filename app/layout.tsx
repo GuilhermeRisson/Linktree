@@ -4,8 +4,8 @@ import { cn } from "@/lib/utils"
 import type React from "react"
 
 export const metadata = {
-  title: "Linktree Dark Theme",
-  description: "A modern Linktree clone with a dark theme",
+  title: "Guilherme Risson",
+  description: "linktree",
 }
 
 export default function RootLayout({
