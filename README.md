@@ -1,4 +1,4 @@
-# Linktree Clone com Next.js
+# Linktree com Next.js
 
 Este projeto é um clone do Linktree desenvolvido com [Next.js](https://nextjs.org), utilizando as melhores práticas de desenvolvimento moderno para web.
 
