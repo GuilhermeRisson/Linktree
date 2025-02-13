@@ -1,4 +1,4 @@
-import { Github, Twitter, Instagram, Globe, Youtube, Mail, Twitch,Linkedin } from "lucide-react"
+import { Github, Instagram, Globe,Linkedin } from "lucide-react"
 import Header from "@/components/header"
 import LinkButton from "@/components/link-button"
 import Footer from "@/components/footer"
